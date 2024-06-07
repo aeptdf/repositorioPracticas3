@@ -1,0 +1,17 @@
+Proyecto: "Climbing Journey" 
+
+Respuestas:
+
+1-	"Climbing Journey" es un juego que simula la experiencia de escalar, ofreciendo a los jugadores la oportunidad de experimentar la escalada en roca o en hielo a través de un entorno virtual.
+2-	El juego utiliza gráficos y físicas avanzadas para simular la sensación de escalar, incorporando desafíos y técnicas reales de escalada. Los jugadores interactúan con el entorno a través de controles intuitivos y detallados.
+3-	Unity proporciona un entorno de desarrollo flexible y accesible, que facilita la creación de gráficos tanto en 2D como en 3D, y utiliza C# como lenguaje de programación.
+4-	Unity ofrece una gran cantidad de herramientas y recursos, como una interfaz intuitiva, una comunidad activa, y una amplia variedad de assets que se pueden integrar fácilmente en el proyecto. Además, su versatilidad permite crear y optimizar el juego para múltiples plataformas.
+5-	Itch.io es una plataforma de distribución de juegos que permite a los desarrolladores publicar sus juegos gratuitamente y recibir donaciones de los jugadores.
+6-	Itch.io proporciona una plataforma fácil de usar para subir y distribuir el juego, permitiendo llegar a una amplia audiencia de jugadores. Además, su opción de donaciones permite a los desarrolladores recibir apoyo financiero directamente de los usuarios.
+7-	El juego ofrece una experiencia inmersiva y desafiante de escalada, con distintos niveles de dificultad y entornos variados que mantienen a los jugadores comprometidos y entretenidos.
+8-	El juego incluye una variedad de rutas de escalada, cada una con obstáculos únicos y técnicas diferentes. También incorpora elementos de progresión, como mejoras de equipo, que recompensan el esfuerzo y la habilidad de los jugadores.
+9-	Va a presentar modalidades para un solo jugador. Compitiendo contra si mismo y su record y/o contra un bot.
+10-	 No, mientras que la “estamina” no se le termine, el jugador va a poder tardar todo lo que necesite para llegar a la cima.
+11-	 Los usuarios van a poder registrarse mediante un usuario y una contraseña. Si, va a existir un leaderboard entre usuarios para ver el puntaje/tiempo que se tardó en cada mapa.
+12-	La opción de donación permite a los jugadores apoyar financieramente el desarrollo del juego de forma voluntaria.
+13-	Los jugadores pueden descargar y jugar "Climbing Journey" de forma gratuita en itch.io y, si desean apoyar al desarrollador, pueden hacer una donación de cualquier monto directamente a través de la plataforma.
