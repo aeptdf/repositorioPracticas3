@@ -1,0 +1,32 @@
+Proyecto: “Climbing Journey”
+
+Requerimientos Funcionales
+1.	Gameplay:
+○	El juego permitirá a los jugadores escalar en dos modalidades: escalada en roca (Rock Climbing) y escalada en hielo (Ice Climbing).
+○	Los jugadores podrán realizar una visualización del mapa al inicio de cada etapa para identificar peligros y/dificultades.
+○	El juego estará regido por objetivos y tiempo.
+○	Al alcanzar la meta, los jugadores formarán parte de un ranking y podrán adquirir mejoras adicionales (herramientas, calzados, etc.).
+○	El juego ofrecerá una experiencia inmersiva y desafiante con distintos niveles de dificultad y entornos variados.
+2.	Interacción del Jugador:
+○	Los jugadores podrán interactuar con el entorno a través de controles intuitivos y detallados.
+○	Habrá un sistema de registro donde los usuarios podrán crear una cuenta con un usuario y una contraseña.
+○	Existirá un leaderboard donde los jugadores podrán ver su puntaje/tiempo en comparación con otros usuarios.
+3.	Plataforma de Distribución:
+○	El juego será distribuido gratuitamente a través de la plataforma itch.io.
+
+Requerimientos No Funcionales
+1.	Desempeño:
+○	El juego debe tener un rendimiento fluido. Debe estar bien optimizado.
+2.	Usabilidad:
+○	La interfaz debe ser fácil de entender y de navegar tanto para jugadores nuevos como experimentados.
+○	El sistema de control debe ser responsivo y preciso para asegurar una buena experiencia.
+3.	Seguridad:
+○	El sistema de registro y almacenamiento de datos de usuarios debe asegurar la protección de la información personal.
+4.	Mantenimiento:
+○	El código debe estar bien documentado para facilitar futuras actualizaciones y mantenimiento.
+
+5.	Accesibilidad:
+○	El juego debe ser accesible a una amplia audiencia, con opciones para ajustar configuraciones visuales y de control según las necesidades de los jugadores.
+6.	Fiabilidad:
+○	El sistema de leaderboard y el registro de usuarios debe ser confiable y funcionar correctamente sin pérdidas de datos.
+
