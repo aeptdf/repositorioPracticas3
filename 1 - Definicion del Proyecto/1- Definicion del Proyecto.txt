@@ -1,7 +1,7 @@
 Proyecto “Climbing Journey”
 
 
-Va a ser un juego sobre escalar, todavía estoy pensando en si va a ser escalada normal (Rock Climbing) o en hielo (Ice Climbing). Voy a utilizar Unity como motor gráfico. Unity usa C#. Unity es versátil a la hora de crear tanto juegos en 3D como en 2D. Va a ser un juego gratis que se va a subir a la pagina itch.io (https://itch.io/) con opcion a donar. 
+"Climbing Journey" será un juego sobre escalada el cual presentara escenarios en los cuales se tendrá que escalar en roca (Rock Climbing) o en hielo (Ice Climbing). El juego se desarrollará utilizando el motor gráfico Unity. Será un juego gratuito disponible en la plataforma itch.io, con opción a donar.
 
 Objetivo: Escalar, con una dificultad Normal o en Hielo.
 El juego se desarrollara de manera individual. Al inicio de cada etapa, el jugador podrá realizar un relevamiento del “Mapa”, para interiorizarse de las dificultades.
